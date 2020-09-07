@@ -7,9 +7,9 @@
 </br>
 </br>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoguedao/mat281_portfolio_template/master?urlpath=lab)
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoguedao/mat281_portfolio_template/master?urlpath=lab)
 
 ## Portafolio Personal
 
