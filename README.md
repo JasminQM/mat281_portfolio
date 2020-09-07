@@ -8,18 +8,11 @@
 </br>
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoguedao/mat281_portfolio_template/master?urlpath=lab)
 
 ## Portafolio Personal
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoguedao/mat281_portfolio_template/master?urlpath=lab)
-
-* __John Titor__ : [My Page](https://www.linkedin.com/in/williamhgates/)
-
-* __Repositorio Curso__:
-    - [2019](https://github.com/aoguedao/mat281_2019S2)
-    - [2020](https://github.com/aoguedao/mat281_2020S2)
-
-## Setup
+### Setup
 
 Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
 
