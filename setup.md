@@ -30,7 +30,7 @@ En particular, se debe configurar `Binder` con tal de poder ejecutar el código 
 
 1. Clonar el repositorio del curso (no puede estar dentro de la carpeta de tu portafolio) ejecutando:
 `git clone https://github.com/{TEACHER_GH_USER}/MAT281_{PERIOD}.git`
-donde `{TEACHER_GH_USER}` es el usuario del profesor a cargo del curso y `{PERIOD}` es el año-semestre en que se dictó. Por ejemplo, para el segundo semestre de 2019 los valores son `FranciscoAlfaroMedina` y `2020` respectivamente. 
+donde `{TEACHER_GH_USER}` es el usuario del profesor a cargo del curso y `{PERIOD}` es el año-semestre en que se dictó. Por ejemplo, para el segundo semestre de 2020 los valores son `FranciscoAlfaroMedina` y `2020` respectivamente. 
 2. En el transcurso del semestre, para actualizar se debe ejecutar `git pull` en la terminal dentro del directorio del repositorio. Por ejemplo, si el repositorio está en la ruta `~/Documents/git/MAT281_2020`:
     - `cd ~/Documents/git/MAT281_2020`
     - `git pull`
@@ -50,7 +50,7 @@ donde `{TEACHER_GH_USER}` es el usuario del profesor a cargo del curso y `{PERIO
         |
         |- ...
     ```
-1. Al comenzar cada clase actualizas el contenido en el respositorio oficial del curso, es decir, ejecutas `git pull` dentro de la carpeta `mat281_2019S2`.
+1. Al comenzar cada clase actualizas el contenido en el respositorio oficial del curso, es decir, ejecutas `git pull` dentro de la carpeta `MAT281_2020`.
 1. Copia el archivo ipynb del laboratorio y pégalo en la carpeta `mat281_portfolio\labs`.
 1. Abrir desde `jupyter lab` el archivo correspondiente a la clase que se encuentre en el __repositorio personal__.
 1. Realiza el laboratorio, tarea o proyecto y guarda los cambios.
