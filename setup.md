@@ -29,10 +29,10 @@ En particular, se debe configurar `Binder` con tal de poder ejecutar el código 
 ## Configurar repositorio del curso
 
 1. Clonar el repositorio del curso (no puede estar dentro de la carpeta de tu portafolio) ejecutando:
-`git clone https://github.com/{TEACHER_GH_USER}/mat281_{PERIOD}.git`
-donde `{TEACHER_GH_USER}` es el usuario del profesor a cargo del curso y `{PERIOD}` es el año-semestre en que se dictó. Por ejemplo, para el segundo semestre de 2019 los valores son `aoguedao` y `2019S2` respectivamente. 
-2. En el transcurso del semestre, para actualizar se debe ejecutar `git pull` en la terminal dentro del directorio del repositorio. Por ejemplo, si el repositorio está en la ruta `~/Documents/git/mat281_2019S2`:
-    - `cd ~/Documents/git/mat281_2019S2`
+`git clone https://github.com/{TEACHER_GH_USER}/MAT281_{PERIOD}.git`
+donde `{TEACHER_GH_USER}` es el usuario del profesor a cargo del curso y `{PERIOD}` es el año-semestre en que se dictó. Por ejemplo, para el segundo semestre de 2019 los valores son `FranciscoAlfaroMedina` y `2020` respectivamente. 
+2. En el transcurso del semestre, para actualizar se debe ejecutar `git pull` en la terminal dentro del directorio del repositorio. Por ejemplo, si el repositorio está en la ruta `~/Documents/git/MAT281_2020`:
+    - `cd ~/Documents/git/MAT281_2020`
     - `git pull`
     - __¡IMPORTANTE!__ Para no tener problemas al _pullear_ no deben existir conflictos con el repositorio original, la mejor forma de evitar esto es no editar ningún archivo y realizar todos los laboratorios/tareas/etc. en el repositorio personal del curso.
 
@@ -42,7 +42,7 @@ donde `{TEACHER_GH_USER}` es el usuario del profesor a cargo del curso y `{PERIO
     ```
     - your_git_folder
     |
-    |- mat281_2019S2
+    |- MAT281_2020
     |  |
     |  |- ...
     |
