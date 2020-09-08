@@ -96,6 +96,7 @@ dependencies:
   - scipy
   - seaborn
   - statsmodels
+  - pillow
 ```
 
 - Luego vuelves a hacer un _push_ con este cambio.
