@@ -16,7 +16,7 @@ En particular, se debe configurar `Binder` con tal de poder ejecutar el código 
         * Te podría ser útil configurar [_credential helper_ ](https://help.github.com/en/articles/caching-your-github-password-in-git) para recordar tu usuario en tu computador.
     - Más engorroso pero más seguro: SSH
         * Sigue [estas instrucciones](https://help.github.com/en/articles/connecting-to-github-with-ssh).
-4. Ir al repositorio [mat281_portfolio_template](https://github.com/aLoNsolml/mat281_portfolio_template) y presionar el botón *__Use this template__*.
+4. Ir al repositorio [mat281_portfolio_template](https://github.com/FranciscoAlfaroMedina/mat281_portfolio_template) y presionar el botón *__Use this template__*.
 5. Nombar el nuevo repositorio como __mat281_portfolio__ y dejarlo en modo público.
 7. Se recomienda crear un directorio en el computador personal para repositorios de Git. Por ejemplo en `~/Documents/git/`.
 6. Clonar el repositorio recién creado. Dependiendo de tu configuración de Git, reemplazar `{username}` por el nombre de usuario personal de GitHub uno de los siguientes comandos en la terminal (usuarios de Windows probablemente tengan que utilizar _Git Shell_.)
